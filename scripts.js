@@ -1,4 +1,4 @@
 function MyButton() {
-    document.getElementById("demo").innerHTML = "Comming Soon !";
+    document.getElementById("templet").innerHTML = "Comming Soon !";
 }
-/* snowcave */
+/* snowcave. */
