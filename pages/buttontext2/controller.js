@@ -1,8 +1,8 @@
 $(document).ready(function () {
 	
-	var questionBank=new Array;
-	var wordArray=new Array;
-	var previousGuesses=new Array;
+	var questionBank=[];
+	var wordArray=[];
+	var previousGuesses=[];
  	var currentWord;
 	var currentClue;
 	var wrongAnswerCount;
@@ -12,12 +12,12 @@ $(document).ready(function () {
  		$.getJSON('quizbank.json', function(data) { 
 
 		for(i=0;i<data.wordlist.length;i++){ 
-			questionBank[i]=new Array;
+			questionBank[i]=[];
 			questionBank[i][0]=data.wordlist[i].word;
 			questionBank[i][1]=data.wordlist[i].clue;
 		}
 		titleScreen();
-		})//gtjson
+		});//gtjson
  
 function titleScreen(){
 	$('#gameContent').append('<div id="gameTitle">HANGMAN</div><div id="startButton" class="button">BEGIN</div>');		
@@ -97,12 +97,12 @@ function checkAnswer(){
 	}		
 	if(currentAnswer==currentWord){
 		victoryMessage();
-	};
+    }
 }//checkanswer
 		
 function wrongAnswer(a){
 	wrongAnswerCount++;
-	var pos=(wrongAnswerCount*-75) +"px"
+	var pos=(wrongAnswerCount*-75) +"px";
 	$('#guesses').append("  "+a);
 	$('#hangman').css("left",pos);
 	if(wrongAnswerCount==6){

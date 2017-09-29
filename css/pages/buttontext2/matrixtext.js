@@ -7,7 +7,7 @@ draw();
 
 var textStrip = ['诶', '比', '西', '迪', '伊', '吉', '艾', '杰', '开', '哦', '屁', '提', '维'];
 
-var stripCount = 60, stripX = new Array(), stripY = new Array(), dY = new Array(), stripFontSize = new Array();
+var stripCount = 60, stripX = [], stripY = [], dY = [], stripFontSize = [];
 
 for (var i = 0; i < stripCount; i++) {
     stripX[i] = Math.floor(Math.random()*1265);

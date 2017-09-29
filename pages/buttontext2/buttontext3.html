@@ -20,7 +20,7 @@
 <script type="text/javascript">
 //get viewport dimensions
 var viewport = function(){
-	var viewport = new Object();
+	var viewport = {};
 	viewport.width = 0;
 	viewport.height = 0;
 	// the more standards compliant browsers (mozilla/netscape/opera/IE7) 
@@ -80,7 +80,7 @@ document.body.onmousedown = function(e){
 	var ob = randomSide();
 	lt.show(ob.startX, ob.startY, e.clientX, e.clientY);
 	draw = true;
-}
+};
 document.body.onmousemove = function(e){
 	if(draw)
 	{
@@ -88,7 +88,7 @@ document.body.onmousemove = function(e){
 		var ob = randomSide();
 		lt.show(ob.startX, ob.startY, e.clientX, e.clientY);
 	}
-}
+};
 document.body.onmouseup = function(e){
 	draw = false;
 	lt.hide();

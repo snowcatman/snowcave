@@ -84,7 +84,7 @@ Snowflake.prototype.update = function () {
     if (this.yPos > browserHeight) {
     	this.yPos = -50;
     }
-}
+};
 
 //
 // A performant way to set your snowflake's position

@@ -8,7 +8,7 @@
 var ddimgtooltip={
 
 	tiparray:function(){
-		var tooltips=[]
+		var tooltips=[];
 		//define each tooltip below: tooltip[inc]=['path_to_image', 'optional desc', optional_CSS_object]
 		//For desc parameter, backslash any special characters inside your text such as apotrophes ('). Example: "I\'m the king of the world"
 		//For CSS object, follow the syntax: {property1:"cssvalue1", property2:"cssvalue2", etc}
@@ -16,70 +16,70 @@ var ddimgtooltip={
 		
 
 
-tooltips[0]=["http://snow.selfip.org/games/1starship/1starship95by95.jpg", " ", {background:"#FFFFFF", width:"200px"}]
+tooltips[0]=["http://snow.selfip.org/games/1starship/1starship95by95.jpg", " ", {background:"#FFFFFF", width:"200px"}];
 
 		
-tooltips[1]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
+tooltips[1]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
 		
-tooltips[2]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
+tooltips[2]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
 		
-tooltips[3]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[4]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[5]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[6]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[7]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[8]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[9]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[10]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[11]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[12]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[13]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[14]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[15]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[16]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[17]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[18]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[19]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[20]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[21]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[22]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[23]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[24]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[25]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[26]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[27]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[28]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[29]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[30]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[31]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[32]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[33]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[34]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[35]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[36]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[37]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[38]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[39]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[40]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[41]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[42]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[43]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[44]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[45]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[46]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[47]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[48]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[49]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[50]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[51]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[52]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[53]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[54]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[55]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[56]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[57]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[58]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
-tooltips[59]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}]
+tooltips[3]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[4]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[5]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[6]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[7]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[8]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[9]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[10]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[11]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[12]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[13]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[14]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[15]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[16]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[17]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[18]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[19]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[20]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[21]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[22]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[23]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[24]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[25]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[26]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[27]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[28]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[29]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[30]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[31]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[32]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[33]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[34]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[35]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[36]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[37]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[38]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[39]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[40]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[41]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[42]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[43]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[44]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[45]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[46]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[47]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[48]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[49]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[50]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[51]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[52]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[53]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[54]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[55]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[56]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[57]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[58]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
+tooltips[59]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {background:"#FFFFFF", width:"200px"}];
 
 
 
@@ -108,15 +108,15 @@ tooltips[59]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {backg
 	},
 
 	positiontooltip:function($, $tooltip, e){
-		var x=e.pageX+this.tooltipoffsets[0], y=e.pageY+this.tooltipoffsets[1]
+		var x=e.pageX+this.tooltipoffsets[0], y=e.pageY+this.tooltipoffsets[1];
 		var tipw=$tooltip.outerWidth(), tiph=$tooltip.outerHeight(), 
-		x=(x+tipw>$(document).scrollLeft()+$(window).width())? x-tipw-(ddimgtooltip.tooltipoffsets[0]*2) : x
-		y=(y+tiph>$(document).scrollTop()+$(window).height())? $(document).scrollTop()+$(window).height()-tiph-10 : y
+		x=(x+tipw>$(document).scrollLeft()+$(window).width())? x-tipw-(ddimgtooltip.tooltipoffsets[0]*2) : x;
+		y=(y+tiph>$(document).scrollTop()+$(window).height())? $(document).scrollTop()+$(window).height()-tiph-10 : y;
 		$tooltip.css({left:x, top:y})
 	},
 	
 	showbox:function($, $tooltip, e){
-		$tooltip.show()
+		$tooltip.show();
 		this.positiontooltip($, $tooltip, e)
 	},
 
@@ -127,29 +127,29 @@ tooltips[59]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {backg
 
 	init:function(targetselector){
 		jQuery(document).ready(function($){
-			var tiparray=ddimgtooltip.tiparray
-			var $targets=$(targetselector)
+			var tiparray=ddimgtooltip.tiparray;
+			var $targets=$(targetselector);
 			if ($targets.length==0)
-				return
-			var tipids=[]
+				return;
+			var tipids=[];
 			$targets.each(function(){
-				var $target=$(this)
-				$target.attr('rel').match(/\[(\d+)\]/) //match d of attribute rel="imgtip[d]"
-				var tipsuffix=parseInt(RegExp.$1) //get d as integer
-				var tipid=this._tipid=ddimgtooltip.tipprefix+tipsuffix //construct this tip's ID value and remember it
-				var $tooltip=ddimgtooltip.createtip($, tipid, tiparray[tipsuffix])
+				var $target=$(this);
+				$target.attr('rel').match(/\[(\d+)\]/); //match d of attribute rel="imgtip[d]"
+				var tipsuffix=parseInt(RegExp.$1); //get d as integer
+				var tipid=this._tipid=ddimgtooltip.tipprefix+tipsuffix; //construct this tip's ID value and remember it
+				var $tooltip=ddimgtooltip.createtip($, tipid, tiparray[tipsuffix]);
 				$target.mouseenter(function(e){
-					var $tooltip=$("#"+this._tipid)
+					var $tooltip=$("#"+this._tipid);
 					ddimgtooltip.showbox($, $tooltip, e)
-				})
+				});
 				$target.mouseleave(function(e){
-					var $tooltip=$("#"+this._tipid)
+					var $tooltip=$("#"+this._tipid);
 					ddimgtooltip.hidebox($, $tooltip)
-				})
+				});
 				$target.mousemove(function(e){
-					var $tooltip=$("#"+this._tipid)
+					var $tooltip=$("#"+this._tipid);
 					ddimgtooltip.positiontooltip($, $tooltip, e)
-				})
+				});
 				if ($tooltip){ //add mouseenter to this tooltip (only if event hasn't already been added)
 					$tooltip.mouseenter(function(){
 						ddimgtooltip.hidebox($, $(this))
@@ -159,7 +159,7 @@ tooltips[59]=["http://snow.selfip.org/games/2deep/2deepmedicon.jpg", " ", {backg
 
 		}) //end dom ready
 	}
-}
+};
 
 //ddimgtooltip.init("targetElementSelector")
-ddimgtooltip.init("*[rel^=imgtip]")
+ddimgtooltip.init("*[rel^=imgtip]");
