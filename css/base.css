@@ -1,0 +1,113 @@
+body {margin-left: 0cm; margin-top:0cm; background-color: #a45A00; border:0px solid; color: #ffffff ;}
+
+.flex-container {
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  width: 798px;
+  height: 58px;
+  background-color: #a45A00;
+}
+
+.flex-container-middle {
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  width: 799px;
+  height: 23px;
+  background-color: #a45A00;
+}
+
+.flex-container-main {
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  width: 163px;
+  height: 600px;
+  background-color: #a45A00;
+  
+}
+.main { display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  width: 163px;
+  height: 600px;
+  background-color: #a45A00; }
+
+.flex-item {
+  background-color: #a45A00;
+  width: 310px;
+  height: 58px;
+  margin: 0px;
+}
+.flex-item-middle {
+  background-color: #a45A00;
+  width: 163px;
+  height: 42px;
+  margin: 0px;
+}
+.center {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+  border: 0;
+  white-space: nowrap;
+}
+.top01 > img {
+  display: block;
+}
+.flex-item > img {
+  display: block;
+}
+div.flex-item:last-of-type > img {
+  float: right;
+}
+#top03 > img {
+  display: block;
+}
+.text {width: 50%; margin: 0 auto; font-weight: bold; font-style: italic; font-size: 200%; }
+
+
+.flex-item-main {
+  display: flex;
+  flex-direction: column;
+  text-align: center; background-color: #a45A00;
+}
+
+.center {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+  border: 0;
+  white-space: nowrap;
+}
+
+.flex-container-main {
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  width: 163px;
+  height: 600px;
+  background-color: #a45A00;
+}
+iframe { 
+max-width: 468px; 
+min-width: 468px;
+max-height: 600px;
+min-height: 600px; 
+overflow-x:hidden; overflow-Y:hidden; overflow:hidden; border: none;
+}
+
+a:link {color: #FFFFFF;  font-family: Trebuchet MS; font-weight: bold; font-size: 11px; text-decoration: none}
+
+a:visited {color: #FFFFFF;  font-family: Trebuchet MS; font-weight: bold; font-size: 11px; text-decoration: none} 
+
+a:active {color: #FFFFFF;  font-family: Trebuchet MS; font-weight: bold; font-size: 11px; text-decoration: none} 
+
+a:hover {font-family: Trebuchet MS; font-weight: bold; font-size: 11px;color: #FFFF00; cursor: hand}
+
+
+/*matrix effect */
+canvas {display: block;}
+
+

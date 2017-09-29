@@ -1,0 +1,38 @@
+<style>
+
+body { background:#FFFFFF; color:#000000 }
+
+body { font-family: Trebuchet MS;  font-size: 10px; color: #000000 }
+
+td { font-family: Trebuchet MS;  font-size: 10px; color: #000000 }
+
+.text {color: #000000;  font-family: Trebuchet MS;  font-size: 10px; text-decoration: none}
+
+.textlight {color: #000000;  font-family: Trebuchet MS;  font-size: 10px; text-decoration: none}
+
+.header {font-family: Trebuchet MS; font-size: 10px; font-weight: bold; color: #333333 }
+
+.header2 {font-family: Trebuchet MS; font-size: 10px; font-weight: bold; color: #000000 }
+
+.header3 {font-family: Trebuchet MS; font-size: 10px; color: #000000 }
+
+a:link {color: #FFFFFF;  font-family: Trebuchet MS; font-weight: bold; font-size: 11px; text-decoration: none}
+
+a:visited {color: #FFFFFF;  font-family: Trebuchet MS; font-weight: bold; font-size: 11px; text-decoration: none} 
+
+a:active {color: #FFFFFF;  font-family: Trebuchet MS; font-weight: bold; font-size: 11px; text-decoration: none} 
+
+a:hover {font-family: Trebuchet MS; font-weight: bold; font-size: 11px;color: #FFFF00; cursor: hand}
+
+BODY {
+
+scrollbar-arrow-color:#FFFF00;
+scrollbar-track-color:#212121;
+scrollbar-shadow-color:#212121;
+scrollbar-face-color:#212121;
+scrollbar-highlight-color:#212121;
+scrollbar-darkshadow-color:#212121;
+scrollbar-3dlight-color:#212121}
+
+</style>
+	
